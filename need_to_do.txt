@@ -1,0 +1,15 @@
+1   -   Also fix turning issue at border for long Blocks
+
+2   -   Create method to go back to Main menu in game.
+
+3   -   Highscore system.
+
+4   -   Different colors after entering the next level.
+
+5   -   Add block placement sounds
+
+6   -   Add block movement sounds
+
+7   -   Add block place animation
+
+8   -   Add Tetris Animation
